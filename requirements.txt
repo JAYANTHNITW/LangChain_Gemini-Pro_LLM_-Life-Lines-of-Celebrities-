@@ -1,0 +1,11 @@
+openai
+langchain
+streamlit
+google.generativeai
+python-dotenv
+langchain-google-vertexai
+langchain_google_genai
+pathlib
+textwrap3
+IPython
+ 
